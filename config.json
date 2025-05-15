@@ -32,7 +32,7 @@
         "maxTotalSend": 1000000,
         "minTotalRequestValue": 29000,
         "maxTotalRequestValue": 1000000000,
-        "minUpgPercent": 7,
+        "minUpgPercent": 3,
         "maxUpgPercent": 12,
         "minDgPercent": 0,
         "maxDgPercent": 4,
